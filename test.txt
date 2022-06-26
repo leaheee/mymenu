@@ -1,2 +1,4 @@
 hello world
 this is the edition in branch master
+and
+this is the edition in branch feature1 
